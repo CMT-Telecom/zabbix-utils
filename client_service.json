@@ -1,0 +1,207 @@
+[
+  {
+    "{#SERVICE}": "IXC",
+    "{#URL}": "45.224.130.40",
+    "{#TIPO}": 2
+  },
+  {
+    "{#SERVICE}": "CALLOFDUTY 1",
+    "{#URL}": "209.197.3.24",
+    "{#TIPO}": 2
+  },
+  {
+    "{#SERVICE}": "CALLOFDUTY 2",
+    "{#URL}": "23.42.246.119",
+    "{#TIPO}": 2
+  },
+  {
+    "{#SERVICE}": "CALLOFDUTY 3",
+    "{#URL}": "157.240.216.14",
+    "{#TIPO}": 2
+  },
+  {
+    "{#SERVICE}": "CALLOFDUTY 4",
+    "{#URL}": "92.122.173.141",
+    "{#TIPO}": 2
+  },
+  {
+    "{#SERVICE}": "FORTNITE 1",
+    "{#URL}": "18.231.38.143",
+    "{#TIPO}": 2
+  },
+  {
+    "{#SERVICE}": "FORTNITE 2",
+    "{#URL}": "18.231.52.12",
+    "{#TIPO}": 2
+  },
+  {
+    "{#SERVICE}": "FORTNITE 3",
+    "{#URL}": "54.207.41.123",
+    "{#TIPO}": 2
+  },
+  {
+    "{#SERVICE}": "AVIANCA",
+    "{#URL}": "www.avianca.com",
+    "{#TIPO}": 2
+  },
+  {
+    "{#SERVICE}": "BANCO ORIGINAL",
+    "{#URL}": "www.original.com.br",
+    "{#TIPO}": 2
+  },
+  {
+    "{#SERVICE}": "BANCO SAFRA",
+    "{#URL}": "www.safra.com.br",
+    "{#TIPO}": 2
+  },
+  {
+    "{#SERVICE}": "CALL OF DUTY",
+    "{#URL}": "www.callofduty.com",
+    "{#TIPO}": 2
+  },
+  {
+    "{#SERVICE}": "EA GAMES",
+    "{#URL}": "www.ea.com",
+    "{#TIPO}": 2
+  },
+  {
+    "{#SERVICE}": "EMIRATES",
+    "{#URL}": "www.emirates.com",
+    "{#TIPO}": 2
+  },
+  {
+    "{#SERVICE}": "FORTINET",
+    "{#URL}": "www.fortinet.com",
+    "{#TIPO}": 2
+  },
+  {
+    "{#SERVICE}": "FREE FIRE",
+    "{#URL}": "143.92.126.48",
+    "{#TIPO}": 2
+  },
+  {
+    "{#SERVICE}": "GARENA",
+    "{#URL}": "ff.garena.com",
+    "{#TIPO}": 2
+  },
+  {
+    "{#SERVICE}": "LATAM",
+    "{#URL}": "www.latamairlines.com",
+    "{#TIPO}": 2
+  },
+  {
+    "{#SERVICE}": "PAG-SEGURO",
+    "{#URL}": "pagseguro.uol",
+    "{#TIPO}": 2
+  },
+  {
+    "{#SERVICE}": "PLAY STORE",
+    "{#URL}": "play.google.com",
+    "{#TIPO}": 2
+  },
+  {
+    "{#SERVICE}": "SITE PUBG",
+    "{#URL}": "na.battlegrounds.pubg.com",
+    "{#TIPO}": 2
+  },
+  {
+    "{#SERVICE}": "QATAR AIRWAYS",
+    "{#URL}": "www.qatarairways.com",
+    "{#TIPO}": 2
+  },
+  {
+    "{#SERVICE}": "SNAPCHAT",
+    "{#URL}": "www.snapchat.com",
+    "{#TIPO}": 2
+  },
+  {
+    "{#SERVICE}": "VOE GOL",
+    "{#URL}": "www.voegol.com.br",
+    "{#TIPO}": 2
+  },
+  {
+    "{#SERVICE}": "FORTNITE 4",
+    "{#URL}": "qosping-aws-sa-east-1.ol.epicgames.com",
+    "{#TIPO}": 2
+  },
+  {
+    "{#SERVICE}": "FORTNITE 5",
+    "{#URL}": "52.67.68.145",
+    "{#TIPO}": 2
+  },
+  {
+    "{#SERVICE}": "FREE FIRE 1",
+    "{#URL}": "143.92.126.71",
+    "{#TIPO}": 2
+  },
+  {
+    "{#SERVICE}": "FREE FIRE 2",
+    "{#URL}": "143.92.126.133",
+    "{#TIPO}": 2
+  },
+  {
+    "{#SERVICE}": "FREE FIRE 4",
+    "{#URL}": "143.92.125.169",
+    "{#TIPO}": 2
+  },
+  {
+    "{#SERVICE}": "FREE FIRE 5",
+    "{#URL}": "143.92.126.164",
+    "{#TIPO}": 2
+  },
+  {
+    "{#SERVICE}": "FREE FIRE 7",
+    "{#URL}": "143.92.126.145",
+    "{#TIPO}": 2
+  },
+  {
+    "{#SERVICE}": "FREE FIRE 11",
+    "{#URL}": "104.124.97.8",
+    "{#TIPO}": 2
+  },
+  {
+    "{#SERVICE}": "FREE FIRE 12",
+    "{#URL}": "104.124.97.33",
+    "{#TIPO}": 2
+  },
+  {
+    "{#SERVICE}": "GARENA 1",
+    "{#URL}": "143.92.125.203",
+    "{#TIPO}": 2
+  },
+  {
+    "{#SERVICE}": "GARENA 2",
+    "{#URL}": "143.92.126.19",
+    "{#TIPO}": 2
+  },
+  {
+    "{#SERVICE}": "GARENA 3",
+    "{#URL}": "209.197.25.1",
+    "{#TIPO}": 2
+  },
+  {
+    "{#SERVICE}": "MINECRAFT",
+    "{#URL}": "server-earthmc.net",
+    "{#TIPO}": 2
+  },
+  {
+    "{#SERVICE}": "CDN TV",
+    "{#URL}": "45.173.46.246",
+    "{#TIPO}": 2
+  },
+  {
+    "{#SERVICE}": "TV 01",
+    "{#URL}": "179.184.54.101",
+    "{#TIPO}": 2
+  },
+  {
+    "{#SERVICE}": "TV 02",
+    "{#URL}": "201.21.193.144",
+    "{#TIPO}": 2
+  },
+  {
+    "{#SERVICE}": "MINECRAFT 3",
+    "{#URL}": "server-play.wynncraft.com",
+    "{#TIPO}": 2
+  }
+]
