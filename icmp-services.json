@@ -1,0 +1,797 @@
+[
+  {
+    "{#SERVICE}": "PORNHUB",
+    "{#URL}": "www.pornhub.com",
+    "{#TIPO}": 0
+  },
+  {
+    "{#SERVICE}": "XVIDEOS",
+    "{#URL}": "www.xvideos.com.br",
+    "{#TIPO}": 0
+  },
+  {
+    "{#SERVICE}": "XHAMSTER",
+    "{#URL}": "xhamster.com",
+    "{#TIPO}": 0
+  },
+  {
+    "{#SERVICE}": "PORNTUBE",
+    "{#URL}": "www.porntube.com",
+    "{#TIPO}": 0
+  },
+  {
+    "{#SERVICE}": "EPORNER",
+    "{#URL}": "www.eporner.com",
+    "{#TIPO}": 0
+  },
+  {
+    "{#SERVICE}": "REDTUBE",
+    "{#URL}": "www.redtube.com",
+    "{#TIPO}": 0
+  },
+  {
+    "{#SERVICE}": "BRAZZERS",
+    "{#URL}": "www.brazzers.com",
+    "{#TIPO}": 0
+  },
+  {
+    "{#SERVICE}": "BANGBROS",
+    "{#URL}": "bangbros.com",
+    "{#TIPO}": 0
+  },
+  {
+    "{#SERVICE}": "YOUPORN",
+    "{#URL}": "www.youporn.com",
+    "{#TIPO}": 0
+  },
+  {
+    "{#SERVICE}": "MYCLUB",
+    "{#URL}": "my.club",
+    "{#TIPO}": 0
+  },
+  {
+    "{#SERVICE}": "CHATURBATE",
+    "{#URL}": "chaturbate.com",
+    "{#TIPO}": 0
+  },
+  {
+    "{#SERVICE}": "YOUJIZZ",
+    "{#URL}": "www.youjizz.com",
+    "{#TIPO}": 0
+  },
+  {
+    "{#SERVICE}": "CHATGPT",
+    "{#URL}": "chat.openai.com",
+    "{#TIPO}": 0
+  },
+  {
+    "{#SERVICE}": "BING",
+    "{#URL}": "www.bing.com",
+    "{#TIPO}": 0
+  },
+  {
+    "{#SERVICE}": "GMAIL",
+    "{#URL}": "mail.google.com",
+    "{#TIPO}": 0
+  },
+  {
+    "{#SERVICE}": "ONEDRIVE",
+    "{#URL}": "onedrive.live.com",
+    "{#TIPO}": 0
+  },
+  {
+    "{#SERVICE}": "BAND",
+    "{#URL}": "www.band.uol.com.br",
+    "{#TIPO}": 0
+  },
+  {
+    "{#SERVICE}": "RECORD",
+    "{#URL}": "recordtv.r7.com",
+    "{#TIPO}": 0
+  },
+  {
+    "{#SERVICE}": "PICHAU",
+    "{#URL}": "www.pichau.com.br",
+    "{#TIPO}": 0
+  },
+  {
+    "{#SERVICE}": "MAGAZINE LUIZA",
+    "{#URL}": "www.magazineluiza.com.br",
+    "{#TIPO}": 0
+  },
+  {
+    "{#SERVICE}": "CASAS BAHIA",
+    "{#URL}": "www.casasbahia.com.br",
+    "{#TIPO}": 0
+  },
+  {
+    "{#SERVICE}": "KABUM",
+    "{#URL}": "www.kabum.com.br",
+    "{#TIPO}": 0
+  },
+  {
+    "{#SERVICE}": "DISCOVERY+",
+    "{#URL}": "www.discoveryplus.com",
+    "{#TIPO}": 0
+  },
+  {
+    "{#SERVICE}": "CRUNCHYROLL",
+    "{#URL}": "www.crunchyroll.com",
+    "{#TIPO}": 0
+  },
+  {
+    "{#SERVICE}": "DEEZER",
+    "{#URL}": "www.deezer.com",
+    "{#TIPO}": 0
+  },
+  {
+    "{#SERVICE}": "STAR+",
+    "{#URL}": "www.starplus.com",
+    "{#TIPO}": 0
+  },
+  {
+    "{#SERVICE}": "DISNEY+",
+    "{#URL}": "www.disneyplus.com",
+    "{#TIPO}": 0
+  },
+  {
+    "{#SERVICE}": "SICOOB",
+    "{#URL}": "www.sicoob.com.br",
+    "{#TIPO}": 0
+  },
+  {
+    "{#SERVICE}": "SHEIN",
+    "{#URL}": "br.shein.com",
+    "{#TIPO}": 0
+  },
+  {
+    "{#SERVICE}": "ALIEXPRESS",
+    "{#URL}": "best.aliexpress.com",
+    "{#TIPO}": 0
+  },
+  {
+    "{#SERVICE}": "AMAZON",
+    "{#URL}": "www.amazon.com",
+    "{#TIPO}": 0
+  },
+  {
+    "{#SERVICE}": "TEMU",
+    "{#URL}": "www.temu.com",
+    "{#TIPO}": 0
+  },
+  {
+    "{#SERVICE}": "BLASTINGNEWS",
+    "{#URL}": "br.blastingnews.com",
+    "{#TIPO}": 0
+  },
+  {
+    "{#SERVICE}": "BLOGSPOT",
+    "{#URL}": "blogspot.com.br",
+    "{#TIPO}": 0
+  },
+  {
+    "{#SERVICE}": "CLOUDFLARE",
+    "{#URL}": "cloudflare.com",
+    "{#TIPO}": 0
+  },
+  {
+    "{#SERVICE}": "DROPBOX",
+    "{#URL}": "www.dropbox.com",
+    "{#TIPO}": 0
+  },
+  {
+    "{#SERVICE}": "FACEBOOK",
+    "{#URL}": "www.facebook.com.br",
+    "{#TIPO}": 0
+  },
+  {
+    "{#SERVICE}": "G1.GLOBO",
+    "{#URL}": "g1.globo.com",
+    "{#TIPO}": 0
+  },
+  {
+    "{#SERVICE}": "GLOBO.COM",
+    "{#URL}": "globo.com",
+    "{#TIPO}": 0
+  },
+  {
+    "{#SERVICE}": "GLOBOPLAY",
+    "{#URL}": "globoplay.globo.com",
+    "{#TIPO}": 0
+  },
+  {
+    "{#SERVICE}": "GOOGLE",
+    "{#URL}": "www.google.com.br",
+    "{#TIPO}": 0
+  },
+  {
+    "{#SERVICE}": "INSTAGRAM",
+    "{#URL}": "www.instagram.com",
+    "{#TIPO}": 0
+  },
+  {
+    "{#SERVICE}": "LOJAS AMERICANAS",
+    "{#URL}": "www.americanas.com.br",
+    "{#TIPO}": 0
+  },
+  {
+    "{#SERVICE}": "MERCADOLIVRE",
+    "{#URL}": "www.mercadolivre.com.br",
+    "{#TIPO}": 0
+  },
+  {
+    "{#SERVICE}": "OLX",
+    "{#URL}": "olx.com.br",
+    "{#TIPO}": 0
+  },
+  {
+    "{#SERVICE}": "OUTLOOK",
+    "{#URL}": "www.outlook.com",
+    "{#TIPO}": 0
+  },
+  {
+    "{#SERVICE}": "PINTEREST",
+    "{#URL}": "br.pinterest.com",
+    "{#TIPO}": 0
+  },
+  {
+    "{#SERVICE}": "SNAPCHAT",
+    "{#URL}": "www.snapchat.com",
+    "{#TIPO}": 0
+  },
+  {
+    "{#SERVICE}": "SPOTIFY",
+    "{#URL}": "www.spotify.com",
+    "{#TIPO}": 0
+  },
+  {
+    "{#SERVICE}": "TERRA",
+    "{#URL}": "terra.com.br",
+    "{#TIPO}": 0
+  },
+  {
+    "{#SERVICE}": "TWITTER",
+    "{#URL}": "twitter.com",
+    "{#TIPO}": 0
+  },
+  {
+    "{#SERVICE}": "UOL",
+    "{#URL}": "uol.com",
+    "{#TIPO}": 0
+  },
+  {
+    "{#SERVICE}": "WAZE",
+    "{#URL}": "www.waze.com",
+    "{#TIPO}": 0
+  },
+  {
+    "{#SERVICE}": "WHATSAPP",
+    "{#URL}": "web.whatsapp.com",
+    "{#TIPO}": 0
+  },
+  {
+    "{#SERVICE}": "YOUTUBE",
+    "{#URL}": "www.youtube.com",
+    "{#TIPO}": 0
+  },
+  {
+    "{#SERVICE}": "FORTICS",
+    "{#URL}": "acesse.sz.chat",
+    "{#TIPO}": 0
+  },
+  {
+    "{#SERVICE}": "Latitude.sh",
+    "{#URL}": "www.latitude.sh",
+    "{#TIPO}": 0
+  },
+  {
+    "{#SERVICE}": "PARAMOUNT+",
+    "{#URL}": "www.paramountplus.com",
+    "{#TIPO}": 0
+  },
+  {
+    "{#SERVICE}": "DNS-A GOOGLE",
+    "{#URL}": "8.8.8.8",
+    "{#TIPO}": 0
+  },
+  {
+    "{#SERVICE}": "DNS-B GOOGLE",
+    "{#URL}": "8.8.4.4",
+    "{#TIPO}": 0
+  },
+  {
+    "{#SERVICE}": "DNS-A CLOUDFLARE",
+    "{#URL}": "1.1.1.1",
+    "{#TIPO}": 0
+  },
+  {
+    "{#SERVICE}": "DNS-B CLOUDFLARE",
+    "{#URL}": "1.0.0.1",
+    "{#TIPO}": 0
+  },
+  {
+    "{#SERVICE}": "BANCO BRADESCO",
+    "{#URL}": "banco.bradesco",
+    "{#TIPO}": 0
+  },
+  {
+    "{#SERVICE}": "BANCO INTER",
+    "{#URL}": "www.bancointer.com.br",
+    "{#TIPO}": 0
+  },
+  {
+    "{#SERVICE}": "BANCO ITAU",
+    "{#URL}": "www.itau.com.br",
+    "{#TIPO}": 0
+  },
+  {
+    "{#SERVICE}": "BANCO DO BRASIL",
+    "{#URL}": "bb.com.br",
+    "{#TIPO}": 0
+  },
+  {
+    "{#SERVICE}": "BANCO SANTANDER",
+    "{#URL}": "www.santander.com.br",
+    "{#TIPO}": 0
+  },
+  {
+    "{#SERVICE}": "NUBANK",
+    "{#URL}": "nubank.com.br",
+    "{#TIPO}": 0
+  },
+  {
+    "{#SERVICE}": "Rico",
+    "{#URL}": "www.rico.com.vc",
+    "{#TIPO}": 0
+  },
+  {
+    "{#SERVICE}": "Clear",
+    "{#URL}": "corretora.clear.com.br",
+    "{#TIPO}": 0
+  },
+  {
+    "{#SERVICE}": "Modal Mais",
+    "{#URL}": "www.modalmais.com.br",
+    "{#TIPO}": 0
+  },
+  {
+    "{#SERVICE}": "Infomoney",
+    "{#URL}": "192.0.66.32",
+    "{#TIPO}": 0
+  },
+  {
+    "{#SERVICE}": "XP Investimentos",
+    "{#URL}": "www.xpi.com.br",
+    "{#TIPO}": 0
+  },
+  {
+    "{#SERVICE}": "Telegram",
+    "{#URL}": "149.154.175.53",
+    "{#TIPO}": 0
+  },
+  {
+    "{#SERVICE}": "GOOGLE MEET",
+    "{#URL}": "meet.google.com",
+    "{#TIPO}": 0
+  },
+  {
+    "{#SERVICE}": "MICROSOFT TEAMS",
+    "{#URL}": "teams.microsoft.com",
+    "{#TIPO}": 0
+  },
+  {
+    "{#SERVICE}": "Prime Video",
+    "{#URL}": "primevideo.com",
+    "{#TIPO}": 0
+  },
+  {
+    "{#SERVICE}": "HBO max",
+    "{#URL}": "play.hbomax.com",
+    "{#TIPO}": 0
+  },
+  {
+    "{#SERVICE}": "Caliman Agricola",
+    "{#URL}": "162.55.135.220",
+    "{#TIPO}": 0
+  },
+  {
+    "{#SERVICE}": "OleTV 2",
+    "{#URL}": "200.194.238.228",
+    "{#TIPO}": 0
+  },
+  {
+    "{#SERVICE}": "OleTV 1",
+    "{#URL}": "186.227.63.210",
+    "{#TIPO}": 0
+  },
+  {
+    "{#SERVICE}": "OleTV 3",
+    "{#URL}": "proxysp.hallo.tv.br",
+    "{#TIPO}": 0
+  },
+  {
+    "{#SERVICE}": "DNS-A Acesse ",
+    "{#URL}": "186.193.16.2",
+    "{#TIPO}": 0
+  },
+  {
+    "{#SERVICE}": "DNS-B Acesse",
+    "{#URL}": "187.94.208.3",
+    "{#TIPO}": 0
+  },
+  {
+    "{#SERVICE}": "DNS-B Google",
+    "{#URL}": "8.8.4.4",
+    "{#TIPO}": 0
+  },
+  {
+    "{#SERVICE}": "DNS-A Google",
+    "{#URL}": "8.8.8.8",
+    "{#TIPO}": 0
+  },
+  {
+    "{#SERVICE}": "bgp.he.net",
+    "{#URL}": "bgp.he.net",
+    "{#TIPO}": 0
+  },
+  {
+    "{#SERVICE}": "SGP",
+    "{#URL}": "177.52.36.30",
+    "{#TIPO}": 0
+  },
+  {
+    "{#SERVICE}": "BRAVA BSB",
+    "{#URL}": "186.235.80.129",
+    "{#TIPO}": 0
+  },
+  {
+    "{#SERVICE}": "Ecxon Datacenter",
+    "{#URL}": "www.ecxon.com.br",
+    "{#TIPO}": 0
+  },
+  {
+    "{#SERVICE}": "Shopee",
+    "{#URL}": "www.shopee.com.br",
+    "{#TIPO}": 0
+  },
+  {
+    "{#SERVICE}": "API TIP Brasil",
+    "{#URL}": "186.209.52.218",
+    "{#TIPO}": 0
+  },
+  {
+    "{#SERVICE}": "TIK TOK",
+    "{#URL}": "www.tiktok.com",
+    "{#TIPO}": 0
+  },
+  {
+    "{#SERVICE}": "Apple",
+    "{#URL}": "www.apple.com",
+    "{#TIPO}": 0
+  },
+  {
+    "{#SERVICE}": "BBC",
+    "{#URL}": "www.bbc.com",
+    "{#TIPO}": 0
+  },
+  {
+    "{#SERVICE}": "CAIXA",
+    "{#URL}": "www.caixa.gov.br",
+    "{#TIPO}": 0
+  },
+  {
+    "{#SERVICE}": "C6BANK",
+    "{#URL}": "www.c6bank.com.br",
+    "{#TIPO}": 0
+  },
+  {
+    "{#SERVICE}": "Globo",
+    "{#URL}": "131.255.140.206",
+    "{#TIPO}": 0
+  },
+  {
+    "{#SERVICE}": "STEAM",
+    "{#URL}": "store.steampowered.com",
+    "{#TIPO}": 1
+  },
+  {
+    "{#SERVICE}": "BATTLE.NET",
+    "{#URL}": "battle.net",
+    "{#TIPO}": 1
+  },
+  {
+    "{#SERVICE}": "PokerStars",
+    "{#URL}": "www.pokerstars.com.br",
+    "{#TIPO}": 1
+  },
+  {
+    "{#SERVICE}": "WOW Classic - US",
+    "{#URL}": "137.221.105.2",
+    "{#TIPO}": 1
+  },
+  {
+    "{#SERVICE}": "Free Fire",
+    "{#URL}": "ff.garena.com",
+    "{#TIPO}": 1
+  },
+  {
+    "{#SERVICE}": "Marvel Snap",
+    "{#URL}": "108.158.122.123",
+    "{#TIPO}": 1
+  },
+  {
+    "{#SERVICE}": "Team Fortress 2",
+    "{#URL}": "155.133.227.36",
+    "{#TIPO}": 1
+  },
+  {
+    "{#SERVICE}": "Path of Exile",
+    "{#URL}": "169.57.216.143",
+    "{#TIPO}": 1
+  },
+  {
+    "{#SERVICE}": "Path of Exile 2",
+    "{#URL}": "br.pathofexile.com",
+    "{#TIPO}": 1
+  },
+  {
+    "{#SERVICE}": "FIFA 26",
+    "{#URL}": "ea.com",
+    "{#TIPO}": 1
+  },
+  {
+    "{#SERVICE}": "ARC RAIDERS",
+    "{#URL}": "34.49.177.182",
+    "{#TIPO}": 1
+  },
+  {
+    "{#SERVICE}": "DELTA FORCE",
+    "{#URL}": "dfsuporte.garena.com",
+    "{#TIPO}": 1
+  },
+  {
+    "{#SERVICE}": "WARFRAME",
+    "{#URL}": "warframe.com",
+    "{#TIPO}": 1
+  },
+  {
+    "{#SERVICE}": "Genshin Impact",
+    "{#URL}": "47.252.29.148",
+    "{#TIPO}": 1
+  },
+  {
+    "{#SERVICE}": "VALORANT 2",
+    "{#URL}": "valorant.secure.dyn.riotcdn.net",
+    "{#TIPO}": 1
+  },
+  {
+    "{#SERVICE}": "APEX LEGENDS",
+    "{#URL}": "35.222.112.51",
+    "{#TIPO}": 1
+  },
+  {
+    "{#SERVICE}": "FIFA 23",
+    "{#URL}": "23.47.177.10",
+    "{#TIPO}": 1
+  },
+  {
+    "{#SERVICE}": "FORTNITE e EPIC Games",
+    "{#URL}": "ping-br.ds.on.epicgames.com",
+    "{#TIPO}": 1
+  },
+  {
+    "{#SERVICE}": "GamersClub",
+    "{#URL}": "www.gamersclub.com.br",
+    "{#TIPO}": 1
+  },
+  {
+    "{#SERVICE}": "CoD Warzone",
+    "{#URL}": "level3.ssl.blizzard.com",
+    "{#TIPO}": 1
+  },
+  {
+    "{#SERVICE}": "CoD Mobile",
+    "{#URL}": "callofduty.com",
+    "{#TIPO}": 1
+  },
+  {
+    "{#SERVICE}": "LOL Login",
+    "{#URL}": "lq.br.lol.riotgames.com",
+    "{#TIPO}": 1
+  },
+  {
+    "{#SERVICE}": "LOL Chat",
+    "{#URL}": "br.chat.si.riotgames.com",
+    "{#TIPO}": 1
+  },
+  {
+    "{#SERVICE}": "Twitch",
+    "{#URL}": "151.101.66.167",
+    "{#TIPO}": 0
+  },
+  {
+    "{#SERVICE}": "CS2 SERVER 1",
+    "{#URL}": "155.133.227.51",
+    "{#TIPO}": 1
+  },
+  {
+    "{#SERVICE}": "DOTA 2",
+    "{#URL}": "155.133.227.51",
+    "{#TIPO}": 1
+  },
+  {
+    "{#SERVICE}": "PSN",
+    "{#URL}": "store.playstation.com",
+    "{#TIPO}": 1
+  },
+  {
+    "{#SERVICE}": "WORLD OF TANKS SA",
+    "{#URL}": "wotna4.login.wargaming.net",
+    "{#TIPO}": 1
+  },
+  {
+    "{#SERVICE}": "WORLD OF TANKS US",
+    "{#URL}": "wotna3.login.wargaming.net",
+    "{#TIPO}": 1
+  },
+  {
+    "{#SERVICE}": "Discord",
+    "{#URL}": "discord.gg",
+    "{#TIPO}": 0
+  },
+  {
+    "{#SERVICE}": "Rainbow Six Siege",
+    "{#URL}": "104.44.22.78",
+    "{#TIPO}": 1
+  },
+  {
+    "{#SERVICE}": "PUBG MOBILE",
+    "{#URL}": "119.8.230.97",
+    "{#TIPO}": 1
+  },
+  {
+    "{#SERVICE}": "GTA 5",
+    "{#URL}": "rockstargames.com",
+    "{#TIPO}": 1
+  },
+  {
+    "{#SERVICE}": "Mobile Legends",
+    "{#URL}": "172.67.150.139",
+    "{#TIPO}": 1
+  },
+  {
+    "{#SERVICE}": "XBOX",
+    "{#URL}": "xbox.com",
+    "{#TIPO}": 1
+  },
+  {
+    "{#SERVICE}": "CS2 SERVER 3",
+    "{#URL}": "189.1.173.122",
+    "{#TIPO}": 1
+  },
+  {
+    "{#SERVICE}": "TARKOV",
+    "{#URL}": "92.38.150.38",
+    "{#TIPO}": 1
+  },
+  {
+    "{#SERVICE}": "Heroes of the Storm - BR",
+    "{#URL}": "54.207.104.145",
+    "{#TIPO}": 1
+  },
+  {
+    "{#SERVICE}": "PUBG - PC",
+    "{#URL}": "52.67.255.254",
+    "{#TIPO}": 1
+  },
+  {
+    "{#SERVICE}": "IX SP",
+    "{#URL}": "saopaulo.sp.ix.br",
+    "{#TIPO}": 1
+  },
+  {
+    "{#SERVICE}": "Betano",
+    "{#URL}": "br.betano.com",
+    "{#TIPO}": 1
+  },
+  {
+    "{#SERVICE}": "Bet365",
+    "{#URL}": "bet365.com",
+    "{#TIPO}": 1
+  },
+  {
+    "{#SERVICE}": "Brazino777",
+    "{#URL}": "brazino777.com",
+    "{#TIPO}": 1
+  },
+  {
+    "{#SERVICE}": "Bet Nacional",
+    "{#URL}": "betnacional.com",
+    "{#TIPO}": 1
+  },
+  {
+    "{#SERVICE}": "Sportsbet",
+    "{#URL}": "sportsbet.io",
+    "{#TIPO}": 1
+  },
+  {
+    "{#SERVICE}": "eFootball",
+    "{#URL}": "34.95.133.20",
+    "{#TIPO}": 1
+  },
+  {
+    "{#SERVICE}": "PUBG - 1",
+    "{#URL}": "54.94.0.66",
+    "{#TIPO}": 1
+  },
+  {
+    "{#SERVICE}": "PUBG - 2",
+    "{#URL}": "54.94.191.252",
+    "{#TIPO}": 1
+  },
+  {
+    "{#SERVICE}": "PUBG - 3",
+    "{#URL}": "54.207.127.254",
+    "{#TIPO}": 1
+  },
+  {
+    "{#SERVICE}": "PUBG - 4",
+    "{#URL}": "54.232.127.254",
+    "{#TIPO}": 1
+  },
+  {
+    "{#SERVICE}": "PUBG - 5",
+    "{#URL}": "54.233.127.252",
+    "{#TIPO}": 1
+  },
+  {
+    "{#SERVICE}": "PUBG - 6",
+    "{#URL}": "54.233.192.0",
+    "{#TIPO}": 1
+  },
+  {
+    "{#SERVICE}": "PUBG - 7",
+    "{#URL}": "177.71.255.255",
+    "{#TIPO}": 1
+  },
+  {
+    "{#SERVICE}": "DIABLO 4",
+    "{#URL}": "diablo4.blizzard.com",
+    "{#TIPO}": 1
+  },
+  {
+    "{#SERVICE}": "Brawl Stars",
+    "{#URL}": "108.139.134.108",
+    "{#TIPO}": 1
+  },
+  {
+    "{#SERVICE}": "BLIZZARD",
+    "{#URL}": "137.221.106.104",
+    "{#TIPO}": 1
+  },
+  {
+    "{#SERVICE}": "Once Human - America do Sul",
+    "{#URL}": "34.49.114.55",
+    "{#TIPO}": 1
+  },
+  {
+    "{#SERVICE}": "CS2 SERVER 2",
+    "{#URL}": "203.159.80.69",
+    "{#TIPO}": 1
+  },
+  {
+    "{#SERVICE}": "CS2 SERVER 3",
+    "{#URL}": "45.164.125.170",
+    "{#TIPO}": 1
+  },
+  {
+    "{#SERVICE}": "GamersClub",
+    "{#URL}": "gamersclub.com.br",
+    "{#TIPO}": 1
+  },
+  {
+    "{#SERVICE}": "eFootball",
+    "{#URL}": "162.254.193.103",
+    "{#TIPO}": 1
+  }
+]
